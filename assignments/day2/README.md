@@ -14,6 +14,7 @@
  - protected_route_table
 ### Task 2
 > Make LAMP setup with 2 instances in each private subnets. 
+
 > Server-1 should serve a webpage that would say "Hi! i am server 1"
 
 > Server-2 should serve a webpage that would say "Hi! i am server 2"
