@@ -26,5 +26,5 @@
 #  NOTE!
   - Machines in the protected subnets shouldn't be going to internet and vice versa (verify this by launching an instance in this subnet)
   - Make Documentation and push to the repo
-  - Make sure you copy the actual logs in the documentation rather than assuming that we will understand `We know nothing`
+  - Make sure you copy the actual logs in the documentation rather than assuming that we'll get it `We know nothing`
 
