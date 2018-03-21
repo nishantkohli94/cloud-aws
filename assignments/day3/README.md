@@ -8,8 +8,8 @@
 > Now try to login, If can't - resolve this issue
 
 ### Task 2
-> create an ansible role before pushing the same to your public github repository
-> Role will simply host an nginx webpage saying
+> create an ansible role before pushing the same to your public github repository.
+> This Role will simply host an nginx webpage saying
   - "Hi i am ninja and my name is {yourname}" 
 
 > Execute this role in user data script while launching another instance
