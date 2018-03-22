@@ -13,4 +13,4 @@
   - Make Documentation
 
 ### Optional
-  - Apply nginx role to any one of the instance using dynamic inventory
+  - Apply nginx role to the instance using dynamic inventory
