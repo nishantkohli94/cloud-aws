@@ -5,10 +5,12 @@
 
 ### Task 1
 > Create a linux t2.micro ec2 instance. After logging into this instance move /etc/sudoers file with /etc/sudoers.bkp 
+
 > Now try to login, If can't - resolve this issue
 
 ### Task 2
 > create an ansible role before pushing the same to your public github repository.
+
 > This Role will simply host an nginx webpage saying
   - "Hi i am ninja and my name is {yourname}" 
 
