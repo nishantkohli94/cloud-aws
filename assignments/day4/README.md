@@ -13,7 +13,7 @@
 > write a script that would start/stop these instances in the order you specified, i.e.
   - instance with `boot-order: 3` tag should boot/start first and likewise rest of them
   - instance with `boot-order: 1` tag should stop first and likewise rest of them
-
+ 
 ### Task 3
 > Launch an ec2 instance with user-data having ansible role to host a website - [like previous assignment]  
 
