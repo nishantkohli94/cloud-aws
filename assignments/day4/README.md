@@ -1,4 +1,4 @@
-# AWS Assignemt Day-4
+# AWS Assignment Day-4
 
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/100px-AWS_Simple_Icons_AWS_Cloud.svg.png)](https://nodesource.com/products/nsolid)
 
