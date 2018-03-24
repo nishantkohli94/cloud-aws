@@ -13,11 +13,11 @@ Example:
 |   InstanceID       |    Name    | env  | project | 
 |:------------------:|:----------:|:----:|:-------:|
 |i-05127089b7979530d |   yes      |  yes |   no    |
-|i-008a20678cf9e1db9 |            |      |   no    |
+|i-008a20678cf9e1db9 |   yes      |  no  |   no    |
 |i-0ae6c4d863ff418fc |   yes      |  no  |   yes   |
-|i-04b66fa53e658993d |            |      |   yes   |
+|i-04b66fa53e658993d |   yes      |  yes |   yes   |
 |i-0d3a2a038f77b1a73 |   no       |  no  |   yes   |
-|i-0ae08ced624c22173 |            |      |   yes   |
+|i-0ae08ced624c22173 |   yes      |  yes |   yes   |
 |i-01a7b5a1aac6f0ca7 |   yes      |  yes |   no    |
 
 
