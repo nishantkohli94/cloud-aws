@@ -5,7 +5,7 @@
 
 ### Task 1
 > Host a static website using s3 as follows:
-  - Buy a domain from `http://www.freenom.com` as `yourname`opstree.com
+  - Buy a domain from [Freenom](http://www.freenom.com) as `yourname`.opstree.com
 
   ```sh
    example: yashvinderopstree.com (Don't worry it's free)
